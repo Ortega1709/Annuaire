@@ -46,4 +46,5 @@ public class Annuaire {
     public void setAdresse(Adresse adresse) {
         this.adresse = adresse;
     }
+
 }
